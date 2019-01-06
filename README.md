@@ -1,2 +1,2 @@
-# sdfs
+# SDFS
 Simple Distributed File System
